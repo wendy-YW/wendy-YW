@@ -3,7 +3,7 @@
 </p>
 <br />
 
-I'm a passionate Web/App developer from LAB.
+I'm a passionate Web/App developer.
 
 
 [![wakatime](https://wakatime.com/badge/user/018b6310-6881-4188-89cf-469ea55ef4c0.svg)](https://wakatime.com/@018b6310-6881-4188-89cf-469ea55ef4c0)
