@@ -5,7 +5,39 @@
 
 I'm a passionate Web/App developer from LAB.
 
-**Tech Stack**
+
+[![wakatime](https://wakatime.com/badge/user/018b6310-6881-4188-89cf-469ea55ef4c0.svg)](https://wakatime.com/@018b6310-6881-4188-89cf-469ea55ef4c0)
+
+### ⚙️  My Daily Drive
+[![macOS](https://img.shields.io/badge/macOS%2014.2-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2023.10-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
+[![iOS](https://img.shields.io/badge/iOS%2017-black?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
+[![Android](https://img.shields.io/badge/Android%2014-green?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+
+### 💾 Languages
+![HTML5](https://img.shields.io/badge/-Go1.21-blue?style=flat-square&logo=go&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-orange?style=flat-square&logo=Javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=Typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-yellow?style=flat-square&logo=C&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-green?style=flat-square&logo=gnu%20bash&logoColor=white)
+
+### Others
+![](https://komarev.com/ghpvc/?username=wendy-YW&abbreviated=true&color=lightgrey)
+
+  <br />
+
+<!--
+
+### 💻 Frameworks & Libraries
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+
 
 -  💻  Typescript, HTML, CSS, Javascript, Python
 -  💻  React, React Native, nodeJS
@@ -13,20 +45,11 @@ I'm a passionate Web/App developer from LAB.
 -  ⚙️  Figma, Neovim, Docker
 -  ☁️  
 - ❤️  learning static programming language
-- [![wakatime](https://wakatime.com/badge/user/018b6310-6881-4188-89cf-469ea55ef4c0.svg)](https://wakatime.com/@018b6310-6881-4188-89cf-469ea55ef4c0)
-  <br />
-
-<br />
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-
-<br />
-
-<!--
 
   [![Wendy's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_wyw\&layout=compact)](https://wakatime.com/@018b6310-6881-4188-89cf-469ea55ef4c0)
 
